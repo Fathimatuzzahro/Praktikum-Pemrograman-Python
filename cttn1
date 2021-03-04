@@ -1,0 +1,89 @@
+
+COBA DENGAN IDE PYTHON YA ZAH!
+
+x=562
+print(x)
+
+y=743
+print (y)
+
+z=x+y
+print (z)
+------------------------------------
+i="K"
+print(i)
+
+j="Yahallo"
+print(j)
+
+m="Yahallo"
+n="Minna!"
+print(m+n)
+------------------------------------
+contoh operasi boolean
+a=true
+b=true
+print(a and b)
+
+a=true
+b=false
+print(a and b)
+
+a=false
+b=true
+print(a and b)
+
+a=false
+b=false
+print(a and b)
+
+-------------------------------------
+contoh operasi arimatika
+a=73
+b=52
+print(a+b)
+
+print(a-b)
+
+print(b*2)
+
+print(a/12)
+
+print(a//12)
+
+print(a%12)
+
+print(5**3)
+
+w="ani"
+print("hi"+3*w)
+-------------------------------------
+bitwise lebih cenderung ke elektronik
+diubah dulu ke binernya
+
+a=10 (0001 0000)=> ini bukan biner murni,(0000 1010) ini biner murni
+b=4 (0000 0100)
+------------- and
+print(a&b)
+
+bitwise operator
+a=10 (0000 1010)
+b=4  (0000 0100)
+----------------- (logical operation)
+	 (         )
+----------------------------------
+shift operation (digeser)
+a>>2
+b<<2
+----------------------------------
+a=10
+b=4
+print(a|b)
+
+a=29
+b=16
+a+=b (ekuivalen dg a=a+b)
+print(a)
+
+
+
